@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Nourelhouda taroudi
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning HTML CSS and JavaScript
+- 🌱 I’m currently learning HTML5,CSS3 and JavaScript
 - 💞️ I’m looking to collaborate on Web projects
