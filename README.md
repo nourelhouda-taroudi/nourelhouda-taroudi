@@ -10,7 +10,7 @@
 
 ## ➜ My projects
 <a href="https://github.com/nourelhouda-taroudi/Chinese-checkers">
-<img alt="Chinese-checkers" src="https://github-readme-stats.vercel.app/api/pin/?username=nourelhouda-taroudi&repo=Chinese-checkers&&theme=light&hide_border=true">
+<img alt="Chinese-checkers" src="https://github-readme-stats.vercel.app/api/pin/?username=nourelhouda-taroudi&repo=Chinese-checkers&&theme=dark&hide_border=true">
 </a>
 
 ## ➜ How to reach me :speech_balloon:
