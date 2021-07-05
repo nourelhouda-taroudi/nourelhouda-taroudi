@@ -1,4 +1,20 @@
-- 👋 Hi, I’m Nourelhouda taroudi
+- 👋 Hi, I’m Nourelhouda taroudi 21 years old
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning HTML5,CSS3 and JavaScript
+- 🌱 I’m currently learning php ,Laravel
 - 💞️ I’m looking to collaborate on Web projects
+
+## ➜ Languages I use
+
+##### I mainly code in Php with Laravel framework
+<img alt="Languages_I_use" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nourelhouda-taroudi&layout=compact&theme=dark&hide_border=false">
+
+## ➜ My projects
+<a href="https://github.com/nourelhouda-taroudi/Chinese-checkers">
+<img alt="Chinese-checkers" src="https://github-readme-stats.vercel.app/api/pin/?username=nourelhouda-taroudi&repo=Chinese-checkers&&theme=light&hide_border=true">
+</a>
+
+## ➜ How to reach me :speech_balloon:
+
+<a href="https://www.linkedin.com/in/nourelhouda-taroudi/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
