@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nourelhouda taroudi 21 years old
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning php ,Laravel
+- 🌱 I’m currently learning Java ,Spring,Angular,node JS
 - 💞️ I’m looking to collaborate on Web projects
 
 ## ➜ Languages I use
